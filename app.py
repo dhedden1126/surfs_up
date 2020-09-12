@@ -68,6 +68,7 @@ def temp_monthly():
 
 @app.route("/api/v1.0/temp/<start>")
 @app.route("/api/v1.0/temp/<start>/<end>")
+# /api/v1.0/temp/2017-06-01/2017-06-30 gives the route and start and end date in the url
 
 def stats(start=None, end=None):
     sel = [func.min(Measurement.tobs), func.avg(Measurement.tobs), func.max(Measurement.tobs)]
