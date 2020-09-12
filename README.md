@@ -8,8 +8,8 @@ Analyzing the temperatures of a particular location will allow for better decisi
 - The max temperatures of June and December are separated by 2 degrees
 - Minimum tempteratures between June and December see an 8 degree differential, with December being 56 degrees
 
-![jun_temp](https://user-images.githubusercontent.com/67982071/93003759-6077cd00-f50f-11ea-97b8-887846841b03.png) 
-![dec_temp](https://user-images.githubusercontent.com/67982071/93003767-68377180-f50f-11ea-9271-bf20ed42ed17.png)
+June ![jun_temp](https://user-images.githubusercontent.com/67982071/93003759-6077cd00-f50f-11ea-97b8-887846841b03.png) 
+Dec ![dec_temp](https://user-images.githubusercontent.com/67982071/93003767-68377180-f50f-11ea-9271-bf20ed42ed17.png)
 
 ### Business Recommendations
 1. Due to the minimum temperature of December being 8 degrees less than June, the Surf Shop may want to stock clothing items and accessories that would be typically used. 
